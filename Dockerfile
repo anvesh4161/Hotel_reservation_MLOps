@@ -18,5 +18,5 @@ RUN python pipeline/training_pipeline.py
 
 EXPOSE 5000
 
-CMD ['python', 'application.py']
+CMD ["python", "application.py"]
 
